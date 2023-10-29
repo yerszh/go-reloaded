@@ -1,0 +1,41 @@
+the 171 52719 4660 ghijklmn  
+invalid hex number: xyz  
+no hex numbers here  
+abc 12 3xyz 4a5  
+.  
+the 2 10 30 ghijklmn  
+invalid hex number: xyz  
+no bin numbers here  
+abc 12 3xyz 4a5  
+.  
+hello. i am good  
+hello my baby, i missed so much  
+i like to read books  
+hello, i like to read. books  
+hello. i am good  
+hello  
+hello  
+hello i am good  
+123 hello  
+123 heheh heheh heheh HELLO  
+HELLO. I am good  
+HELLO MY BABY, I MISSED SO MUCH  
+I LIKE TO READ BOOKS  
+Hello, I LIKE TO READ. BOOKS  
+HELLO  
+HELLO  
+HELLO I am good  
+123 HELLO  
+Hello. I am good  
+HELLO MY Baby, I Missed So Much.  
+I LIKE To Read BOOKS.  
+Hello, i like To Read. Books. 
+Hello. 
+Hello. 
+Hello I am good. 
+123 HELLO. 
+ONE, Two, Three, 'four', an five, 'six, seven?! an eight' 00111 FFF The end... 
+I was sitting over there, and then BAMM!! 
+hello an hour 
+MADINA TAZHIYEVA 
+Shmitia is my cat 
