@@ -1,41 +1,5 @@
-The (hex) AB (hex) CDEF (hex) 1234 (hex) GHIJKLMN
-Invalid hex number: (hex) XYZ
-No hex numbers here
-(hex) ABC 12 3XYZ 4A5
-(hex) .
-The (bin) 10 (bin) 1010 (bin) 11110 (bin) GHIJKLMN
-Invalid hex number: (bin) XYZ
-No bin numbers here
-(bin) ABC 12 3XYZ 4A5
-(bin) .
-HELLO. (low) I am good
-HELLO MY BABY, I Missed SO mUch (low, 5)
-I LIKE TO (low) READ (low) BOOKS
-Hello , I LIKE TO (  low) READ. (low,2) BOOKS
-HELLO. I am good
-HELLO (low, 10)
-HELLO (low, ABC)
-HELLO (low, 2.) I am good
-123 (low) HELLO
-123 heheh heheh heheh (low, 99999999999) HELLO
-hello. (up) I am good
-HELLO MY BABY, I Missed SO mUch (up, 5)
-I LIKE to (up) read (up) BOOKS
-Hello , i like to (up) read. (up,2) BOOKS
-hello (up, 10)
-HELLO (up, ABC)
-HELLO (up, 2.) I am good
-123 (up) HELLO
-hello. (cap) I am good
-HELLO MY BABY, I Missed SO mUch (   cap, 5).
-I LIKE to (cap) read (cap) BOOKS.
-Hello , i like to (cap) read. (cap,2) BOOKS.
-hello (cap, 10).
-HELLO (cap, ABC).
-HELLO (cap, 2.) I am good.
-123 (cap) HELLO.
-one (up) , two , three (cap,2), ' four' , an FIVE, (low) ' six ,seven ?! a eight' 00111 (bin) FFF (hex) The end ... 
-I was sitting over there ,and then BAMM !!
-hello a hour (cap) (low, 3)
-madina (cap) (low) tazhiyeva (up, 3)
-shmitia (cap) is my cat (lower case)
+Ready,(up, 999) set, go (up) ! I should stop SHOUTING (low) Welcome to the Brooklyn bridge (cap) This is so exciting (up, 2)
+Youuuu (cap, 999) am exactly how they describe me: 'awesome'
+Simply  add 1233EE(hex) and 10 (bin) and you will see the result is 68. (cap)
+There is no greater agony than bearing a untold story inside you (hex).
+I was sitting over tasdashere, and then BAMM!! (bin) (up, 50)
