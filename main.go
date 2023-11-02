@@ -26,7 +26,9 @@ func main() {
 		fmt.Println(err)
 		return
 	}
+
 	outputText := modifications.FormatPunctuation(string(inputBytes))
+	outputText = modifications.ReplaceAWithAn(outputText)
 	outputText = modifications.FormatPunctuation(outputText)
 	err = os.WriteFile(outputName, []byte(outputText), 0o777)
 	if err != nil {
