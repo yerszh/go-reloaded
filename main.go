@@ -26,11 +26,13 @@ func main() {
 		fmt.Println(err)
 		return
 	}
+	// fmt.Println("\nBEFORE: \n", string(inputBytes))
 	outputText := modifications.FormatPunctuation(string(inputBytes))
 	outputText = modifications.ReplaceAWithAn(outputText)
 	outputText = modifications.ReplaceNumbers(outputText)
 	outputText = modifications.ConvertWords(outputText)
 	outputText = modifications.FormatPunctuation(outputText)
+	// fmt.Println("\nAFTER: \n", outputText)
 	err = os.WriteFile(outputName, []byte(outputText), 0o777)
 	if err != nil {
 		fmt.Println(err)
